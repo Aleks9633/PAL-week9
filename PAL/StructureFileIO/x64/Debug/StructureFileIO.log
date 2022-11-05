@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\aleks\source\repos\PAL\StructureFileIO\Source.c(46,13): warning C4101: 'data': unreferenced local variable
+C:\Users\aleks\source\repos\PAL\StructureFileIO\Source.c(72,45): warning C4047: '=': 'FILE *' differs in levels of indirection from 'int'
+  StructureFileIO.vcxproj -> C:\Users\aleks\source\repos\PAL\x64\Debug\StructureFileIO.exe
